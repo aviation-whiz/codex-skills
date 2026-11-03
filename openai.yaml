@@ -1,7 +1,0 @@
-interface:
-  display_name: "English Paper Revision"
-  short_description: "Revise scientific English with evidence-aware explanations"
-  default_prompt: "Use $english-paper-revision to revise the following scientific English paragraph and explain the changes."
-
-policy:
-  allow_implicit_invocation: true
