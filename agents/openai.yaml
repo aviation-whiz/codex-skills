@@ -5,4 +5,4 @@ interface:
 
 policy:
   allow_implicit_invocation: true
-short_description: "按科研论文规范润色英文并解释修改理由"
+
